@@ -234,7 +234,7 @@ sudo pip3 install boto3
 sudo pip3 install awscli
 ```
 
-2) Copy the PY files to a folder, such as `$SLURM_ROOT/etc/aws` and make them files executable. Adapt the full path to your own context.
+2) Copy the PY files to a folder, such as `$SLURM_ROOT/etc/aws` and make them executable. Adapt the full path to your own context.
 
 ```bash
 cd /fullpath
