@@ -238,7 +238,7 @@ sudo pip3 install awscli
 
 ```bash
 cd /fullpath
-repo=https://github.com/swiftsoftwaregroup/aws-plugin-for-slurm
+repo=https://raw.githubusercontent.com/swiftsoftwaregroup/aws-plugin-for-slurm/main
 wget -q $repo/common.py
 wget -q $repo/resume.py
 wget -q $repo/suspend.py
