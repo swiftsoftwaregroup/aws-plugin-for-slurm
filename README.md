@@ -606,4 +606,4 @@ Two partitions `aws` and `awsspot` with one node group in each. It uses Slurm ac
 }
 ```
 
-NOTE: This repo started as a fork of [AWS Plugin for Slurm - Version 2](https://github.com/aws-samples/aws-plugin-for-slurm/tree/plugin-v2)
+NOTE: This repo started as a fork of [AWS Plugin for Slurm - Version 2](https://github.com/aws-samples/aws-plugin-for-slurm/tree/plugin-v2). See their [LICENSE](https://github.com/aws-samples/aws-plugin-for-slurm/blob/plugin-v2/LICENSE) for details.
